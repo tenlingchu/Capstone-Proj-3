@@ -2,7 +2,7 @@
 
 ### Online Retail Sales Analysis
 
-[Link to dataset](Online Retail II UCI | Kaggle)
+<a href="https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci">https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci</a>
 
 #### Description of dataset
 The dataset contains the online retail sales data of an all-occasion gift ware company that is based in UK.  
